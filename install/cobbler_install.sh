@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # 修改cobbler配置
+# 用于虚拟机中
 
 # 配置DHCP相关IP地址
 SUBNET="192.168."
